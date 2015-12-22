@@ -1,0 +1,18 @@
+{
+    "contents" : "",
+    "created" : 1450763605881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9B190AA",
+    "lastKnownWriteTime" : 1450763660,
+    "path" : "E:/Coding/R/Getting and Cleaning Data/getdata.R",
+    "project_path" : "getdata.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
