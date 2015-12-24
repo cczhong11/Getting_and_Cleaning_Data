@@ -30,3 +30,4 @@ result$V1<-NULL
 colnames(result)[1:2]<-c("activities","subjects")
 #--------------------------------------------------------------
 write.table(result,"tidy_dataset.txt",row.name=FALSE )
+rm(list = ls())
